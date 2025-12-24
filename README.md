@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-map.html
+```map.html
 
 <html>
 <body bgcolor="cyan">
@@ -106,7 +106,7 @@ temple.html
 The Paneri Amman Temple, is a revered local shrine dedicated to Goddess Amman, worshipped as a protector and provider of strength and well-being. Deeply rooted in the cultural and spiritual life of the surrounding community, the temple is known for its simple architecture, daily rituals, and vibrant celebrations during festivals such as Aadi and Navaratri. It serves as an important place of devotion for residents, reflecting the rich tradition of Amman worship in Tamil Nadu.
 </p>
 </body>
-</html>
+</html>```
 
 # OUTPUT
 <img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/dc6661ae-683d-45b9-9ae2-961b4b4feaba" />
